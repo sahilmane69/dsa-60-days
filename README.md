@@ -1,5 +1,5 @@
 🌟 60-Day C++ & DSA Journey
-<p align="center"> <img src="https://imgur.com/3QAHC9c.png" width="400px"/> </p><p align="center"> <img src="https://img.shields.io/badge/60_Days-C++_&_DSA-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Start-When_Ready-green?style=for-the-badge"/> </p>
+<p align="center"> <p align="center"> <img src="https://i.imgur.com/3QAHC9c.png" width="400px"> </p><p align="center"> <img src="https://img.shields.io/badge/60_Days-C++_&_DSA-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Start-When_Ready-green?style=for-the-badge"> </p> </p>
 🗓️ Complete Roadmap
 Phase 1: Foundations
 
