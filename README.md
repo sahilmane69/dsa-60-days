@@ -1,56 +1,39 @@
-🌌 60-Day C++ & DSA Challenge
-<p align="center"> <img src="https://imgur.com/3QAHC9c.png" width="800px"/> </p> <p align="center"> <img src="https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=cplusplus"/> <img src="https://img.shields.io/badge/Focus-DSA-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge"/> <img src="https://img.shields.io/github/last-commit/sahilmane69/dsa-60-days?style=for-the-badge"/> </p>
-⚡ Why This Challenge?
+🌟 60-Day C++ & DSA Journey
+<p align="center"> <img src="https://imgur.com/3QAHC9c.png" width="400px"/> </p><p align="center"> <img src="https://img.shields.io/badge/60_Days-C++_&_DSA-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Start-When_Ready-green?style=for-the-badge"/> </p>
+🗓️ Complete Roadmap
+Phase 1: Foundations
 
-To become unstoppable at problem solving, build real logic without AI, and master C++ fundamentals + advanced DSA patterns.
+Arrays & Strings
 
-This repo documents:
+Sorting & Searching
 
-My daily progress
+Recursion
 
-Handwritten notes
+Phase 2: Core Structures
 
-C++ solutions
+Linked Lists
 
-Topic-wise revision
+Stacks & Queues
 
-Patterns I master along the way
+Trees & BST
 
-🧭 Roadmap (Visual Progress Tracker)
-🟢 Week 1 — Arrays & Math
-🟢 Week 2 — Strings & Hashing
-🟢 Week 3 — Searching & Sorting
-🟢 Week 4 — Recursion & Backtracking
-🟡 Week 5 — Linked List, Stack, Queue
-🟡 Week 6 — Trees & BST
-🔵 Week 7 — Heaps & Tries
-🔵 Week 8 — Graphs
-🔥 Week 9 — DP Basics
-🔥 Week 10 — Advanced DP
-🟣 Week 11 — Master Revision
-🟣 Week 12 — Mock Interviews + Hard Problems
+Phase 3: Advanced
 
-(Colors change in the README as weeks progress — you can update manually.)
+Graphs & DP
 
-📅 Daily Log (Auto-Growth Look)
-Day	Topic	Status	Problems
-01	Arrays	🔥 In Progress	3
-02	Arrays + Patterns	🔥	—
-03	Strings	⏳	—
-…	…	…	…
+System Design
 
-Copy this table and update daily.
+Interview Prep
 
-📂 Folder Structure
-📦 dsa-60-days
- ┣ 📂 Day01
- ┃ ┣ 📜 problem1.cpp
- ┃ ┣ 📜 problem2.cpp
- ┃ ┗ 📝 notes.md
- ┣ 📂 Day02
- ┣ 📂 Week1
- ┣ 📂 Week2
- ┣ 📂 Templates
- ┃ ┗ 📜 fast_io.cpp
- ┣ 📂 Notes
- ┗ 📜 README.md
+📁 Your Structure
+text
+dsa-60-days/
+├── 📂 Phase1_Foundations/
+├── 📂 Phase2_Core/
+├── 📂 Phase3_Advanced/
+└── 📜 roadmap.md
+💫 Flexible Approach
+"Learn at your own pace"
+Start whenever you're ready! 🌱
+
+Your journey, your timeline ✨
